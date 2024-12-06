@@ -1,6 +1,6 @@
 # Algoritmo Genético para o Problema da Mochila
 
-Este programa implementa um algoritmo genético para resolver o **Problema da Mochila Binária**. Ele foi traduzido de um código original em Python para C++ como parte de um projeto extra da disciplina de **SuperComp**.
+Este programa implementa um algoritmo genético para resolver o **Problema da Mochila Binária**. Ele foi traduzido de um código original em Python para C++ para o projeto extra da disciplina de **SuperComp**.
 
 ## Funcionamento
 
