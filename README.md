@@ -29,7 +29,7 @@ O programa imprime:
 
 ## Como Compilar e Executar
 
-1. Compile o programa usando o `g++`:
+1. Compile dessa forma:
    ```bash
    g++ -std=c++11 -o alg_gen alg_gen.cpp
    ```
